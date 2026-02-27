@@ -43,4 +43,4 @@ Se quiser clonar este repositório para visualização ou impressão do currícu
 ```bash
 git clone https://github.com/nataliardev/CV.git
 
-https://github.com/nataliardev/CV/tree/main
+[https://github.com/nataliardev/CV/tree/main](https://roadmap.sh/projects/single-page-cv)
